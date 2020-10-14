@@ -17,7 +17,7 @@ data = [
     {username:"好", score:0},
     {username:"溺水的魚", score:20},
     {username:"‎·ࡇ· ", score:30},
-    {username:"Ac", score:20},
+    {username:"Ac", score:50},
     {username:"系女邊", score:40},
     {username:"陳俊霖", score:25},
     {username:"1", score:20},
