@@ -8,7 +8,7 @@ var meow = setInterval(Update(),1000);
 
 function Update(){
     console.log(document.getElementById("table"));
-    node = document.getElementById("table").children[0];
+    node = document.getElementById("table").children[1];
     console.log(node);
     while(node.children.length > 1){
         node.removeChild(node.children[1]);
