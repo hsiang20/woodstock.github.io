@@ -1,13 +1,13 @@
 data = [
-    {username:"Burger Snow", score:0},
-    {username:"耶比我要社服", score:0},
-    {username:"系女邊", score:0},
+    {username:"Burger Snow", score:10},
+    {username:"耶比我要社服", score:10},
+    {username:"系女邊", score:10},
     {username:"WYT", score:0},
-    {username:"(°▽°)", score:0},
+    {username:"(°▽°)", score:10},
     {username:"彩虹獨角獸", score:0},
-    {username:"Kelly", score:0},
-    {username:"兀兀", score:0},
-    {username:"鄭雅文", score:0},
+    {username:"Kelly", score:10},
+    {username:"兀兀", score:10},
+    {username:"鄭雅文", score:10},
     {username:"Aleph_0", score:0},
     {username:"Star", score:0},
     {username:"傅傳偉", score:0},
@@ -19,6 +19,10 @@ data = [
     {username:"好", score:0},
     {username:"溺水的魚", score:0},
     {username:"‎·ࡇ· ", score:0},
+    {username:"Ac", score:10},
+    {username:"系女邊", score:10},
+    {username:"陳俊霖", score:0},
+    {username:"陳儀斌", score:10}
 ];
 data.sort(function(a,b){return b.score-a.score});
 console.log(document.getElementsByClassName("table_dao")[0]);
