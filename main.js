@@ -4,7 +4,7 @@ data = [
     {username:"系女邊", score:10},
     {username:"WYT", score:0},
     {username:"(°▽°)", score:10},
-    {username:"彩虹獨角獸", score:0},
+    {username:"彩虹獨角獸", score:10},
     {username:"Kelly", score:10},
     {username:"兀兀", score:10},
     {username:"鄭雅文", score:10},
@@ -22,6 +22,7 @@ data = [
     {username:"Ac", score:10},
     {username:"系女邊", score:10},
     {username:"陳俊霖", score:0},
+    {username:"1", score:10},
     {username:"陳儀斌", score:10}
 ];
 data.sort(function(a,b){return b.score-a.score});
