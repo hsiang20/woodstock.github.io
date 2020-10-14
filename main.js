@@ -1,5 +1,5 @@
 data = [
-{username:"陳永縉", score:80},
+{username:"陳永縉", score:180},
 {username:"高晟", score:100},
 ];
 data.sort(function(a,b){return b.score-a.score});
