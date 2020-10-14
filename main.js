@@ -2,8 +2,8 @@ data = [
     {username:"張家翔", score:0},
     {username:"陳永縉", score:0}, 
     {username:"高晟", score:50}, 
-    {username:"翁立昌", score:0}, 
-    {username:"袁昕德", score:0}, 
+    {username:"翁立昌", score:}, 
+    {username:"袁昕德", score:0}
 ];
 data.sort(function(a,b){return b.score-a.score});
 console.log(document.getElementsByClassName("table_dao")[0]);
