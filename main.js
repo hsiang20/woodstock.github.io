@@ -10,7 +10,7 @@ data = [
     {username:"鄭雅文", score:10},
     {username:"Aleph_0", score:0},
     {username:"Star", score:0},
-    {username:"傅傳偉", score:0},
+    {username:"傅傳偉", score:35},
     {username:"林蓁", score:0},
     {username:"卡比", score:0},
     {username:"光光", score:0},
@@ -21,7 +21,7 @@ data = [
     {username:"‎·ࡇ· ", score:0},
     {username:"Ac", score:10},
     {username:"系女邊", score:10},
-    {username:"陳俊霖", score:0},
+    {username:"陳俊霖", score:15},
     {username:"1", score:10},
     {username:"陳儀斌", score:10}
 ];
