@@ -1,6 +1,24 @@
 data = [
-{username:"陳永縉", score:180},
-{username:"高晟", score:100},
+    {username:"Burger Snow", score:0},
+    {username:"耶比我要社服", score:0},
+    {username:"系女邊", score:0},
+    {username:"WYT", score:0},
+    {username:"(°▽°)", score:0},
+    {username:"彩虹獨角獸", score:0},
+    {username:"Kelly", score:0},
+    {username:"兀兀", score:0},
+    {username:"鄭雅文", score:0},
+    {username:"Aleph_0", score:0},
+    {username:"Star", score:0},
+    {username:"傅傳偉", score:0},
+    {username:"林蓁", score:0},
+    {username:"卡比", score:0},
+    {username:"光光", score:0},
+    {username:"Kelly", score:0},
+    {username:"Ray", score:0},
+    {username:"好", score:0},
+    {username:"溺水的魚", score:0},
+    {username:"‎·ࡇ· ", score:0},
 ];
 data.sort(function(a,b){return b.score-a.score});
 console.log(document.getElementsByClassName("table_dao")[0]);
