@@ -5,7 +5,7 @@ data = [
     {username:"(°▽°)", score:55},
     {username:"彩虹獨角獸", score:40},
     {username:"Kelly", score:40},
-    {username:"兀兀", score:70},
+    {username:"兀兀", score:80},
     {username:"鄭雅文", score:50},
     {username:"Aleph_0", score:0},
     {username:"Star", score:20},
@@ -17,7 +17,7 @@ data = [
     {username:"好", score:0},
     {username:"溺水的魚", score:40},
     {username:"‎·ࡇ· ", score:50},
-    {username:"Ac", score:70},
+    {username:"Ac", score:80},
     {username:"系女邊", score:60},
     {username:"陳俊霖", score:35},
     {username:"1", score:20},
@@ -27,7 +27,7 @@ data = [
     {username:"PY", score:0},
     {username:"吳映廷", score:55},
     {username:"周庭宇", score:30},
-    {username:"黃慈", score:20},
+    {username:"黃慈", score:40},
     {username:"終於會一題", score:10}
 ];
 data.sort(function(a,b){return b.score-a.score});
