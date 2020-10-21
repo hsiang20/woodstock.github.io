@@ -32,9 +32,8 @@ data = [
     {username:"邱彥翔", score:20},
     {username:"Saibo", score:10},
     {username:"米霓", score:30},
-    {username:"曰堡", score:20},
+    {username:"曰堡", score:30},
     {username:"Joyce", score:20},
-    {username:"林子婷", score:10},
     {username:"IceRain", score:10},
     {username:"Red sus", score:10},
     {username:"張蓉蓉", score:35}
